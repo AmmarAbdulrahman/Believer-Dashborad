@@ -1,0 +1,41 @@
+.form{
+    margin-left: 350px;
+    margin-top: -20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    height: 100px;
+    width: 800px;
+}
+
+.update-button {
+    margin-left: -358px;
+    width: 100px;
+    height: 40px;
+    margin-top: -30px;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+}
+
+.update-button:hover {
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86);
+    font-size:17px;
+}
+
+.button-back {
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    display:block;
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86 );
+    border: none;
+}
+
+.button-back:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    width: 92px;
+}

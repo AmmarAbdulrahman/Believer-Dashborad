@@ -1,0 +1,36 @@
+.exercise {
+    margin: -10px;
+    margin-left: 380px;
+    width: 800px;
+    height: 600px;
+    border: none;
+}
+
+.images{
+    height: 430px;
+    width: 580px;
+    margin-left: 100px;
+}
+
+.description {
+    margin-top: 15px;
+}
+
+.name {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.button-view-tran{
+    background-color: blueviolet;
+    border: none;
+    height: 40px;
+    width: 100px;
+    margin-left:50px;
+    margin-top: 0px;
+    margin-right:2px;
+}
+
+.button-view-tran:hover {
+    background-color: rgb(95, 27, 158);
+}

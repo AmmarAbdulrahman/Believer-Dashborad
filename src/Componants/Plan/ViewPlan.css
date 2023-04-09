@@ -1,0 +1,14 @@
+.button-back-plan{
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    display:block;
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86 );
+    border: none;
+}
+
+.button-back-plan:hover{
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+
+}

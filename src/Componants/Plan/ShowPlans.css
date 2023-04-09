@@ -1,0 +1,133 @@
+.titles{
+    position: absolute;
+    color:blueviolet;
+    font-size:25px ;
+    display: inline;
+    margin-top: 15px;
+    margin-left:-70px ;
+}
+
+.button-added {
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    margin-left: 1100px;
+    display: inline;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border-color: linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+    border-radius: 10px;
+}
+
+.button-added:hover {
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86);
+}
+
+.button-add-day {
+    background-color:orange;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-add-day:hover{
+    background-color: rgb(211, 142, 15);
+}
+
+.home-hon{
+    width: 1506px;
+}
+
+.hed{
+    width: 1518px;
+}
+
+.pl {
+    margin-left: 30px;
+    margin-top: -8px;
+}
+
+.photo-navbar {
+    height: 45px;
+    margin-top:7px ;
+    margin-left:-20px ;
+    margin-right:80px ;
+}
+
+.columns {
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 5px;
+    width: 360px;
+}
+
+.card-plan{
+    box-shadow:rgba(0, 0, 0, 0.2);
+    width: 290px;
+    height: 270px;
+    border-top-right-radius: 40PX;
+    border-top-left-radius: 40PX;
+    border-bottom-right-radius: 40PX;
+    border-bottom-left-radius: 40PX;
+    border-color: rgb(157, 119, 192);
+}
+
+.body-card {
+    margin:10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.button-view {
+    background-color: blueviolet;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-view:hover {
+    background-color: rgb(95, 27, 158);
+}
+
+.button-delete {
+    height: 40px;
+    width: 75px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-edit {
+    background-color:orange;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-edit:hover{
+    background-color: rgb(211, 142, 15);
+}
+
+.links-pl{
+    text-decoration: none;
+    margin-left: -4px ;
+    margin-right:-3.5px ;
+}
+
+.photo-navbar-pl {
+    height: 45px;
+    margin-top:10px ;
+    margin-left:-20px ;
+    margin-right:80px ;
+    transition: 0.5s;
+}
+.photo-navbar-pl:hover{
+    transform: rotate(360deg);
+    /*    opacity: 0.7;
+*/
+}

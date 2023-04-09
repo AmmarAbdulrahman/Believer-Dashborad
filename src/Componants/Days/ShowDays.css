@@ -1,0 +1,125 @@
+.titles{
+    position: absolute;
+    color:blueviolet;
+    font-size:25px ;
+    display: inline;
+    margin-top: 15px;
+    margin-left:-70px ;
+}
+
+.button-added {
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    margin-left: 1100px;
+    display: inline;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border-color: linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+    border-radius: 10px;
+}
+
+.button-added:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+}
+
+.photo-navbar-da {
+    height: 45px;
+    margin-top:10px ;
+    margin-left:-20px ;
+    margin-right:80px ;
+    transition: 0.5s;
+}
+.photo-navbar-da:hover{
+    transform: rotate(360deg);
+}
+
+.day{
+    margin-top: 15px;
+
+}
+
+.h33{
+    border-radius: 20px;
+    margin-left:18px ;
+    margin-bottom: 15px;
+    /* background:linear-gradient(to bottom,rgb(250, 121, 82),#f362c3); */
+    background:linear-gradient(to top,#cd9eda,#7855a5);
+    max-width: 1450px;
+    border-color: red;
+}
+
+.name-day{
+    margin-left: -1280px;
+    box-shadow: #c20e86;
+    color: white;
+    border-color: red;
+    border-radius: 10px;
+}
+
+.text-day{
+    color: blueviolet;
+    font-size: 16px;
+}
+
+.sec{
+    font-size: 13px;
+}
+
+.da {
+    margin-left: 10px;
+    margin-top: -8px;
+}
+
+
+.columns-da {
+    margin-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 360px;
+}
+
+.card-day{
+    box-shadow:rgba(0, 0, 0, 0.2);
+    width: 310px;
+    height: 375px;
+    border-radius: 15px;
+    border-top-right-radius: 50PX;
+    border-top-left-radius: 50PX;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: rgb(157, 119, 192);
+}
+
+.body-card {
+    margin:10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.imagee {
+    width: 230px;
+    height: 230px;
+    margin: 5px;
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.button-delete-day {
+    height: 40px;
+    width: 82px;
+    margin-bottom: 15px;
+    margin-left:990px;
+    margin-right:-300px;
+}
+
+.button-remove-day{
+    background-color: rgb(179, 179, 20);
+    border:rgb(179, 179, 20);
+    height: 40px;
+    width: 82px;
+    display:inline; 
+    margin-top: -82px;
+    margin-left:1110px;
+}

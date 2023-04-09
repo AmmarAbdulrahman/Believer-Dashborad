@@ -1,0 +1,20 @@
+.buttons {
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86);
+    margin-left: 8px;
+    margin-right: 6px;
+    border:none ;
+}
+
+.buttons:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    font-size:17px;
+}
+
+
+.photo-not-found {
+    height: 100px;
+    margin-left: 378px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    display: block;
+}

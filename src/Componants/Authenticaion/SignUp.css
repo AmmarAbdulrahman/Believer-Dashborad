@@ -1,0 +1,15 @@
+.padge{
+    position: fixed;
+    margin-top: 30px;
+    margin-left:50px ;
+    font-style: italic;
+    font-size: 25px;
+    color: blueviolet;
+}
+
+
+.photo{
+    margin-top: -7px;
+    width: 45px;
+    height: 45px;
+}

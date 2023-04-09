@@ -1,0 +1,74 @@
+.button-back {
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    display:block;
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86 );
+    border: none;
+}
+
+.button-back:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    width: 92px;
+}
+
+.form-day{
+    margin: 10px;
+}
+
+.label-day{
+    display:inline-flex;
+    margin: 10px;
+    height: 50px;
+    width: 350px;
+}
+
+.button-viewss {
+    background-color: blueviolet;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:-62px;
+    margin-right:2px;
+}
+
+.button-viewss:hover {
+    background-color: rgb(95, 27, 158);
+}
+
+.button-deletes {
+    height: 40px;
+    width: 75px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.add-button-day {
+    margin-left: -120px;
+    width: 75px;
+    height: 40px;
+    margin-top: -20px;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+}
+
+.add-button-day:hover {
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86);
+}
+
+.label-day-title {
+    margin-top: 0px;
+    margin-left: 465px;
+    height: 65px;
+    width: 600px;
+}
+
+.label-title{
+    height: 50px;
+}
+
+.color-title{
+    color: blueviolet;
+    font-size: 16px;
+}

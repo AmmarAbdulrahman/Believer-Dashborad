@@ -1,0 +1,118 @@
+.l{
+    background-color: blueviolet;
+    width: 1550px;
+    position:fixed;
+    z-index: 100;
+
+}
+
+.cc {
+    background-color:rgb(243, 242, 242);
+    margin-top: 50px;
+    position: fixed;
+    width: 300px;
+    height:1000px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+.mesp{
+    background-color:rgb(243, 242, 242);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.colp {
+    position: relative;
+    padding-left: 20px;
+    width: 390px;
+}
+
+.g-4p {
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+
+.column {
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 5px;
+    width: 360px;
+}
+
+.cards{
+    box-shadow:rgba(0, 0, 0, 0.2);
+    width: 310px;
+    height: 385px;
+    border-radius: 15px;
+    border-top-right-radius: 50PX;
+    border-top-left-radius: 50PX;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: rgb(157, 119, 192);
+}
+
+.image {
+    width: 230px;
+    height: 230px;
+    margin: 5px;
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.buttons {
+    background-color: blueviolet;
+    margin-left: 8px;
+    margin-right: 6px;
+}
+
+
+.card-plan{
+    box-shadow:rgba(0, 0, 0, 0.2);
+    width: 290px;
+    height: 270px;
+    border-top-right-radius: 40PX;
+    border-top-left-radius: 40PX;
+    border-bottom-right-radius: 40PX;
+    border-bottom-left-radius: 40PX;
+    border-color: rgb(157, 119, 192);
+}
+
+.body-card {
+    margin:10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.table {
+    margin: 30px;
+    width: 1440px;
+}
+.th {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.bel{
+    position: fixed;
+    margin-top: 30px;
+    margin-left:50px ;
+    font-style: italic;
+    font-size: 25px;
+    color: blueviolet;
+}
+
+
+.pho{
+    margin-top: -7px;
+    width: 45px;
+    height: 45px;
+}
+
+.hido:hover{
+    color: rgb(240, 223, 188);
+}

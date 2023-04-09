@@ -1,0 +1,85 @@
+.form{
+    margin-left: 350px;
+    margin-top: -20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    height: 100px;
+    width: 800px;
+}
+
+.add-button {
+    margin-left: -358px;
+    width: 100px;
+    height: 40px;
+    margin-top: -30px;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+}
+
+.add-button:hover {
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86);
+    font-size:17px;
+}
+
+.button-back {
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    display:block;
+    background:linear-gradient(to top,rgb(230, 63, 12),#c20e86 );
+    border: none;
+}
+
+.button-back:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    width: 92px;
+}
+
+.title{
+    position: absolute;
+    color:blueviolet;
+    font-size:25px ;
+    display: inline;
+    margin-top: 6px;
+    margin-left:-70px ;
+}
+
+.button-added {
+    margin-top: 10px;
+    margin-left: 1100px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: aliceblue;
+}
+.link:hover {
+    color: bisque;
+}
+
+.error{
+    color: red;
+    width: 300px;
+    font-size: 13px;
+    margin-left: -60px;
+    margin-right:700px;
+    margin-top: 7px;
+}
+
+.error-d{
+    color: red;
+    font-size: 13px;
+    width: 300px;
+    margin-left: -215px;
+    margin-right:700px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}

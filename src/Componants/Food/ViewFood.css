@@ -1,0 +1,26 @@
+.food {
+    margin: -10px;
+    margin-left: 380px;
+    width: 800px;
+    height: 600px;
+    border: none;
+}
+
+.images{
+    height: 400px;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.description {
+    margin-top: 15px;
+}
+
+.name {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.gram {
+    font-size: 13px;
+}

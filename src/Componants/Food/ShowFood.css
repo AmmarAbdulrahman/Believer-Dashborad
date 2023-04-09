@@ -1,0 +1,115 @@
+.titles{
+    position: absolute;
+    color:blueviolet;
+    font-size:25px ;
+    display: inline;
+    margin-top: 15px;
+    margin-left:-70px ;
+}
+
+.button-added {
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    margin-left: 1100px;
+    display: inline;
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border-color: linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+    border: none;
+    border-radius: 10px;
+}
+
+.button-added:hover {
+    background:linear-gradient(to bottom,rgb(230, 63, 12),#c20e86);
+}
+
+.photo-navbar-fo {
+    height: 45px;
+    margin-top:10px ;
+    margin-left:-20px ;
+    margin-right:80px ;
+    transition: 0.5s;
+}
+.photo-navbar-fo:hover{
+    transform: rotate(360deg);
+}
+
+.fo {
+    margin-left: 10px;
+    margin-top: -8px;
+}
+
+
+.columns {
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 5px;
+    width: 360px;
+}
+
+.cards{
+    box-shadow:rgba(0, 0, 0, 0.2);
+    width: 310px;
+    height: 385px;
+    border-radius: 15px;
+    border-top-right-radius: 50PX;
+    border-top-left-radius: 50PX;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: rgb(157, 119, 192);
+}
+
+.imagee {
+    width: 230px;
+    height: 230px;
+    margin: 5px;
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.button-view-food {
+    background-color: blueviolet;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-view-food:hover {
+    background-color: rgb(95, 27, 158);
+}
+
+.button-delete-food {
+    height: 40px;
+    width: 75px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.button-edit-food {
+    background-color:orange;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.home-hon-f{
+    width: 1487px;
+}
+
+.hed-f{
+    width: 1499px;
+}
+
+
+.button-edit-food:hover{
+    background-color: rgb(211, 142, 15);
+}
+
+.links{
+    text-decoration: none;
+    margin-left: -4px ;
+}
