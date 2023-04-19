@@ -28,7 +28,8 @@ const ShowExercises = () => {
         }
     }).then((res) => {
       setExercises(res.data);
-      console.log(localStorage.getItem("token"))
+      console.log(res.data);
+      //console.log(localStorage.getItem("token"))
     });
   };
 
