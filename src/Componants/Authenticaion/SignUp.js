@@ -74,7 +74,7 @@ export default function SignInSide() {
 
   return (
     <ThemeProvider theme={theme}>
-              <div className="padge" ><img className="photo" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1680686384/tozscxjhs5ayxcrsv5eq.jpg"></img> Believe. Set. Go.</div>
+              <div className="padge" ><img className="photo" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1681947726/k5id8r6cyhuwssjd8jbf.jpg"></img> Believe. Set. Go.</div>
       <Grid container component="main" sx={{ height: "100vh" }}>
         <CssBaseline />
         <Grid
@@ -83,7 +83,7 @@ export default function SignInSide() {
           sm={4}
           md={7}
           sx={{
-            backgroundImage:"url(http://res.cloudinary.com/dqhzikck7/image/upload/v1680687692/f5flbbenj8blbir7bqkr.jpg)",
+            backgroundImage:"url(http://res.cloudinary.com/dqhzikck7/image/upload/v1681947086/w9bp31ieyrygmzbblash.jpg)",
            // backgroundImage: "url(https://source.unsplash.com/random)",
             backgroundRepeat: "no-repeat",
             backgroundColor: (t) =>

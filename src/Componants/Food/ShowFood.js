@@ -69,7 +69,7 @@ const ShowFood = () => {
   return (
     <div className="home-hon-f">
       <div className="hed-f"><Header /></div>
-      <img className="photo-navbar-fo" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1680686384/tozscxjhs5ayxcrsv5eq.jpg"></img>
+      <img className="photo-navbar-fo" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1681947726/k5id8r6cyhuwssjd8jbf.jpg"></img>
       <p className="titles" >Believer</p>
       <Button className="button-added" variant="success"> <Link className="link" to="/addFood">Add Food</Link> </Button>
       

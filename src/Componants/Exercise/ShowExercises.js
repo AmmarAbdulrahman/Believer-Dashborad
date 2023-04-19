@@ -50,7 +50,7 @@ const ShowExercises = () => {
   return (
     <div className="home-hon-ex">
       <div className="hed-f"><Header /></div>
-      <img className="photo-navbar-ex" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1680686384/tozscxjhs5ayxcrsv5eq.jpg"></img>
+      <img className="photo-navbar-ex" src="http://res.cloudinary.com/dqhzikck7/image/upload/v1681947726/k5id8r6cyhuwssjd8jbf.jpg"></img>
       <p className="titles" >Believer </p>
       <Button onClick={()=> navigate("/add") } className="button-added" variant="success">Add Exercise </Button>
       
